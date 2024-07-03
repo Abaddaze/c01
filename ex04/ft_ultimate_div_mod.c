@@ -9,7 +9,6 @@
 /*   Updated: 2024/06/29 20:01:40 by yofouzi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-Hadchi kaml Ghalat
 #include <unistd.h>
 
 void	ft_ultimate_div_mod(int *a, int *b)
